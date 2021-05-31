@@ -27,24 +27,6 @@
   },
 
   {
-    "question": "How many years has Jayway been in the business?",
-    "optionA": "30",
-    "optionB": "10",
-    "optionC": "20",
-    "optionD": "40",
-    "answer": "20"
-  },
-
-  {
-    "question": "How many projects and products has Jayway built?",
-    "optionA": "More than 100",
-    "optionB": "More than 900",
-    "optionC": "More than 1200",
-    "optionD": "More than 2500",
-    "answer": "More than 1200"
-  },
-
-  {
     "question": "What ideas does Jayway share on their blog?",
     "optionA": "Tech and good practices ",
     "optionB": "Tech and food",
@@ -78,33 +60,6 @@
     "optionC": "A high-quality website",
     "optionD": "A banking app",
     "answer": "A high-quality website"
-  },
-
-  {
-    "question": "Who painted the Mona Lisa?",
-    "optionA": "Alexander Graham Bell",
-    "optionB": "Sir Isaac Newton",
-    "optionC": "Leonardo Da Vinci",
-    "optionD": "Albert Einstein",
-    "answer": "Leonardo Da Vinci"
-  },
-
-  {
-    "question": "Which of the following represents Jayway's goal?",
-    "optionA": "Personal growth",
-    "optionB": "Business insights",
-    "optionC": "Grow great digital mindst",
-    "optionD": "Generating revenue",
-    "answer": "Grow great digital minds"
-  },
-
-  {
-    "question": "Which of the following products has Jayway part taking in?",
-    "optionA": "Resound reflief",
-    "optionB": "Candy Crush",
-    "optionC": "Lenovo's Dell",
-    "optionD": "Touch bracelets",
-    "answer": "Resound reflief"
   },
 
   {
