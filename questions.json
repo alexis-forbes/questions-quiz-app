@@ -87,5 +87,23 @@
     "optionC": "Nope",
     "optionD": "I don't know",
     "answer": "For sure!"
+  },
+
+  {
+    "question": "What kind of lab is developed in Malmö's Jayway office?",
+    "optionA": "VR",
+    "optionB": "MongoDB",
+    "optionC": "IOT",
+    "optionD": "OOP",
+    "answer": "VR"
+  },
+
+  {
+    "question": "How many followers does Jayway have on instagram?",
+    "optionA": "Less than 200",
+    "optionB": "Between 200 and 300",
+    "optionC": "Less than 500",
+    "optionD": "More than 500",
+    "answer": "For sure!"
   }
 ]
